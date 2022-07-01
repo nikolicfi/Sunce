@@ -1,0 +1,9 @@
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\bin\Debug\Sunce.exe.config
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\bin\Debug\Sunce.exe
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\bin\Debug\Sunce.pdb
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\obj\Debug\Sunce.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\obj\Debug\Sunce.Form1.resources
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\obj\Debug\Sunce.Properties.Resources.resources
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\obj\Debug\Sunce.csproj.GenerateResource.Cache
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\obj\Debug\Sunce.exe
+C:\Users\filip\Desktop\C# Maturski zadaci\Sunce\Sunce\obj\Debug\Sunce.pdb
